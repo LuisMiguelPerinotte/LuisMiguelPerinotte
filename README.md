@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luís Miguel</h1>
-<h3 align="center">A Back End Student from brazil</h3>
+<h3 align="center">A Back End Student from Rio de janeiro, brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luismiguelperinotte&label=Profile%20views&color=0e75b6&style=flat" alt="luismiguelperinotte" /> </p>
 
@@ -14,3 +14,6 @@
 <a href="https://instagram.com/perinotteluis00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perinotteluis00" height="30" width="40" /></a>
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
