@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/snake.yml" alt="Snake animation" />
+<img src="![Snake animation](https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/snake.svg)" alt="Snake animation" />
 
 ###
 <div align="center">
