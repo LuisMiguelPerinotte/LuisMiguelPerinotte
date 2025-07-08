@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisMiguelPerinotte&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"  />
-  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVzcjB4ZWd5bGYzbjV3MGwyM2N6aG1vcndqN2ZobmdoenRueGhqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
+  
 
 </div>
 
