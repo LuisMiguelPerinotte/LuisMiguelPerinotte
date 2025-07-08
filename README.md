@@ -1,9 +1,8 @@
 <h2 align="center">Hi 👋! My name is Luís Miguel and I'm a Back End Student.</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisMiguelPerinotte&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMiguelPerinotte&theme=dark&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&theme=dark&show_icons=true&hide_border=true&layout=compact" />
   
 </div>
 <br clear="both">
