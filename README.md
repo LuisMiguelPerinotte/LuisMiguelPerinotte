@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Luís Miguel and I'm a Back End Student.</h2>
+<h2 align="center">Hi 👋! My name is Luís Miguel.</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMiguelPerinotte&theme=dark&hide_border=true" height="150" alt="stats graph"  />
