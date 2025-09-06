@@ -1,19 +1,23 @@
-<h2 align="center">Hi 👋! My name is Luís Miguel.</h2>
+# Hey there! 👋
+**I'm Luís Miguel** - I'm a web development student :)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMiguelPerinotte&theme=dark&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+
+<h3>Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,git,postman,linux,mysql,docker)](https://skillicons.dev)
+
+<details>
+  <summary>Github Stats ⚡</summary>
   
-</div>
-<br clear="both">
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </p>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=LuisMiguelPerinotte&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
-<br clear="both">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 <div align="center">
