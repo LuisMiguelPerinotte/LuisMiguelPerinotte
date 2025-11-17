@@ -4,7 +4,7 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,git,postman,linux,mongo,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,git,postman,linux,mongo,docker)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats ⚡</summary>
