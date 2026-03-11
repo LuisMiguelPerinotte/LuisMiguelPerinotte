@@ -1,5 +1,5 @@
 # Hey there! 👋
-**I'm Luís Miguel** - I'm a web development student :)
+**I'm Luís Miguel** - I'm a Backend student :)
 
 
 <h3>Languages and Tools:</h3>
