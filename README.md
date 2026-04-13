@@ -8,9 +8,10 @@
 
 <details>
   <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=LuisMiguelPerinotte&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LuisMiguelPerinotte&show_icons=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LuisMiguelPerinotte&theme=dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&layout=compact&theme=dark)
 </details>
 
 
