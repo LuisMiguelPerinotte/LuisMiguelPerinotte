@@ -1,10 +1,25 @@
-# Hey there! 👋
-**I'm Luís Miguel** - I'm a Backend Developer :)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
 
+# Hey there! **I'm Luís Miguel** 👋
 
-<h3>Languages and Tools:</h3>
+### 👨‍💻 **About Me**
 
+I'm a Back-end Developer focused on building scalable and well-structured applications using Java and Spring Boot.
+
+I enjoy solving real-world problems, designing clean APIs, and working with databases and system architecture. I'm always looking to improve my skills, learn new technologies, and write better code every day.
+
+### 🎯**Currently focused on:**:
+- Back-end development with Java & Spring
+- RESTful API design
+- Database modeling and performance
+- Clean code and best practices
+  
+---
+
+### 💻🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,mongo,redis,kafka,docker,maven,git,postman)](https://skillicons.dev)
+
+---
 
 <details>
   <summary>Github Stats ⚡</summary>
@@ -12,8 +27,9 @@
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LuisMiguelPerinotte&show_icons=true&theme=dark)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LuisMiguelPerinotte&theme=dark)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&layout=compact&theme=dark)
+  
+  ---
 </details>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake-dark.svg"/>
@@ -21,8 +37,10 @@
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<div align="center">
-<h3 align="center">Connect with me:</h3>
-<a href="https://instagram.com/perinotteluis00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perinotteluis00" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/luis-miguel-perinotte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn" height="30" width="40" /></a>
-</div>
+---
+### 📫 Connect with me:
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/perinotteluis00)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luis-miguel-perinotte)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luismiguelcontact10@gmail.com?subject=Contato%20via%20GitHub)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
