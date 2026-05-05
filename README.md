@@ -26,6 +26,7 @@ I enjoy solving real-world problems, designing clean APIs, and working with data
   
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LuisMiguelPerinotte&showicons=true&theme=dark)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LuisMiguelPerinotte&theme=dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&layout=compact&theme=dark)
 
   <div align=center>
     <img src="https://komarev.com/ghpvc/?username=LuisMiguelPerinotte&color=blue"/>
