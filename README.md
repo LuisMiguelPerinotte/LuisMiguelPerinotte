@@ -22,12 +22,17 @@ I enjoy solving real-world problems, designing clean APIs, and working with data
 ---
 
 <details>
-  <summary>Github Stats ⚡</summary>
-
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LuisMiguelPerinotte&show_icons=true&theme=dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LuisMiguelPerinotte&theme=dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisMiguelPerinotte&layout=compact&theme=dark)
+  <summary>⚡Github Stats</summary>&nbsp;&nbsp;&nbsp;
   
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LuisMiguelPerinotte&showicons=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LuisMiguelPerinotte&theme=dark)
+
+  <div align=center>
+    <img src="https://komarev.com/ghpvc/?username=LuisMiguelPerinotte&color=blue"/>
+    <img src="https://img.shields.io/github/followers/LuisMiguelPerinotte?label=Followers&color=1F1F1F"/>
+    <img src="https://img.shields.io/github/stars/LuisMiguelPerinotte"/>
+  </div>
+
   ---
 </details>
 
