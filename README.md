@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A2C36&height=100&section=header"/>
 
 # Hey there! **I'm Luís Miguel** 👋
 
@@ -9,11 +9,13 @@ I'm a Back-end Developer focused on building scalable and well-structured applic
 I enjoy solving real-world problems, designing clean APIs, and working with databases and system architecture. I'm always looking to improve my skills, learn new technologies, and write better code every day.
 
 ### 🎯**Currently focused on:**:
-- Back-end development with Java & Spring
+- Back-end development with Java & Spring Boot
 - RESTful API design
 - Database modeling and performance
 - Clean code and best practices
-  
+- Automated tests
+- Dockerized production environments
+
 ---
 
 ### 💻🛠️ Languages and Tools:
@@ -39,7 +41,7 @@ I enjoy solving real-world problems, designing clean APIs, and working with data
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/LuisMiguelPerinotte/LuisMiguelPerinotte/output/github-contribution-grid-snake.svg"/>
 </picture>
 
@@ -49,4 +51,4 @@ I enjoy solving real-world problems, designing clean APIs, and working with data
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luis-miguel-perinotte)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luismiguelcontact10@gmail.com?subject=Contato%20via%20GitHub)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A2C36&height=100&section=footer"/>
