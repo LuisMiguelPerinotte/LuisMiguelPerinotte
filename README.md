@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A2C36&height=100&section=header"/>
 
-# Hey there! **I'm Luís Miguel** 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Hey+there!+I'm+Lu%C3%ADs+Miguel+%F0%9F%91%8B)](https://git.io/typing-svg)
+---
 ### 👨‍💻 **About Me**
 
 I'm a Back-end Developer focused on building scalable and well-structured applications using Java and Spring Boot.
