@@ -8,9 +8,10 @@ I'm a Back-end Developer focused on building scalable and well-structured applic
 
 I enjoy solving real-world problems, designing clean APIs, and working with databases and system architecture. I'm always looking to improve my skills, learn new technologies, and write better code every day.
 
-### 🎯**Currently focused on:**:
+### 🎯**Currently focused on:**
 - Back-end development with Java & Spring Boot
 - RESTful API design
+- Authentication & Authorization (JWT)
 - Database modeling and performance
 - Clean code and best practices
 - Automated tests
