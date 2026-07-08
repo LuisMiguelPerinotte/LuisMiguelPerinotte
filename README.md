@@ -20,7 +20,7 @@ I enjoy solving real-world problems, designing clean APIs, and working with data
 ---
 
 ### 💻🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,mongo,redis,kafka,docker,githubactions,maven,postman,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,git,mongo,redis,kafka,docker,githubactions,maven,postman,idea)](https://skillicons.dev)
 
 ---
 
